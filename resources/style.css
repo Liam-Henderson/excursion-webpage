@@ -1,0 +1,16 @@
+*{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color:gray;
+}
+
+footer{
+    color: gray;
+    text-align: right;
+}
+
